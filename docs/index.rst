@@ -5,7 +5,7 @@
 本ページは、NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順をまとめます
 
 
-NGINX Plus Trial取得手順
+NGINX Trial取得手順
 ========
 
 NGINX Trial 申し込みページ
@@ -45,13 +45,13 @@ URLをブラウザで開き、ライセンスファイルを取得します
    .. image:: ./media/Trial4.png
       :width: 400
 
-本画面はNGINX Plus Trial Licenseとなります。
+本画面はNGINX Plus の トライアルライセンス取得画面となります。
 必要となるライセンスファイルを確認しファイルを保存してください。
 
-インストール手順
+各ソフトウェアインストール手順
 --------
 
-申請したTrialの内容に合わせて、各種プロダクトのインストール手順に従い利用してください。
+申請したトライアルの内容に合わせて、各種プロダクトのインストール手順に従い利用してください。
 
 - NGINX Plus Install手順 : https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/
 
@@ -83,9 +83,9 @@ NGINX利用で参考となるページ
 - NGINX Japan Ebook : https://www.nginx.co.jp/resources/ebooks/
    - 特に O'Reilly Cookbookが便利です
 - NGINX Japan Webinar (日本語) : https://www.nginx.co.jp/resources/webinars/
-- NGINX com BLOG : https://www.nginx.com/blog/
+- NGINX com BLOG (英語) : https://www.nginx.com/blog/
    - 様々なテクニカル情報、製品情報などまとまっております
-- NGINX com Webinar (English) : https://www.nginx.com/resources/webinars/
+- NGINX com Webinar (英語) : https://www.nginx.com/resources/webinars/
 
 .. toctree::
    :titlesonly:
