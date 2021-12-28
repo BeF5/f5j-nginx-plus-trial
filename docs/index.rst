@@ -51,9 +51,9 @@ URLをブラウザで開き、ライセンスファイルを取得します
 インストール手順
 --------
 
-各種プロダクトのインストール手順に従い、利用してください。
+申請したTrialの内容に合わせて、各種プロダクトのインストール手順に従い利用してください。
 
-- NGINX Plus Install手順 : https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/
+- `NGINX Plus Install手順`_ 
 
 -  | NGINX Controller Install手順 : https://docs.nginx.com/nginx-controller/admin-guides/install/install-nginx-controller/
    | 合わせてNGINX Controller Agent Install手順を確認してください
@@ -61,6 +61,8 @@ URLをブラウザで開き、ライセンスファイルを取得します
 -  | NGINX Ingress Controller 利用手順 : https://docs.nginx.com/nginx-ingress-controller/installation/using-the-jwt-token-docker-secret/
    | ImageのPull、ImageのBuild等ご希望の手順を参照してください
 
+
+.. _NGINX Plus Install手順:https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/
 
 
 NGINX利用で参考となるページ
