@@ -2,13 +2,13 @@
 はじめに
 ========
 
-本ページは、NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順をまとめます
+本ページは、NGINX Plusを試していただく際のNGINX Plus トライアルライセンスの取得手順をまとめます
 
 
-NGINX Trial取得手順
+NGINX トライアル 手順
 ========
 
-NGINX Trial 申し込みページ
+NGINX トライアル 申し込みページ
 --------
 
 | 無料トライアルの申し込みリンクは以下となります。
