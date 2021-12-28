@@ -68,10 +68,10 @@ NGINX利用で参考となるページ
 =====
 
 - NGINX Docs (各種製品ドキュメント、リリースノート等): https://docs.nginx.com/
-  - 各プロダクトを選択いただきマニュアルをご覧ください
+   - 各プロダクトを選択いただきマニュアルをご覧ください
 
 - NGINX org (各種ディレクティブ、変数の解説、OSSリリースノート等): http://nginx.org/
-  - documentationより各種資料が参照いただけます
+   - documentationより各種資料が参照いただけます
 
 
 その他参考となるページ
@@ -81,10 +81,10 @@ NGINX利用で参考となるページ
 - NGINX Japan : https://www.nginx.co.jp/
 - NGINX Japan よくある質問 : https://www.nginx.co.jp/resources/faq/
 - NGINX Japan Ebook : https://www.nginx.co.jp/resources/ebooks/
-  - 特に O'Reilly Cookbookが便利です
+   - 特に O'Reilly Cookbookが便利です
 - NGINX Japan Webinar (日本語) : https://www.nginx.co.jp/resources/webinars/
 - NGINX com BLOG : https://www.nginx.com/blog/
-  - 様々なテクニカル情報、製品情報などまとまっております
+   - 様々なテクニカル情報、製品情報などまとまっております
 - NGINX com Webinar (English) : https://www.nginx.com/resources/webinars/
 
 .. toctree::
