@@ -17,9 +17,7 @@ NGINX トライアル 申し込みページ
 .. NOTE::
    Trialの取得に1～2日必要となる場合があります
 
-- NGINX Plus Free Trial : https://www.nginx.co.jp/free-trial-request/
-- NGINX Controller Free Trial : https://www.nginx.co.jp/free-trial-request-nginx-controller/
-- NGINX Ingress Controller Free Trial : https://www.nginx.co.jp/free-trial-request-nginx-ingress-controller/
+- 無料トライアル : https://www.nginx.co.jp/pricing/
 
 無料トライアルの申請
 --------
@@ -48,44 +46,13 @@ URLをブラウザで開き、ライセンスファイルを取得します
 本画面はNGINX Plus の トライアルライセンス取得画面となります。
 必要となるライセンスファイルを確認しファイルを保存してください。
 
-各ソフトウェアインストール手順
---------
+プロダクトにより必要となるファイルが異なりますので、画面の指示に従って操作を進めてください
 
-申請したトライアルの内容に合わせて、各種プロダクトのインストール手順に従い利用してください。
+プロダクトの利用
+----
 
-- NGINX Plus Install手順 : https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/
-
-- NGINX Controller Install手順 : https://docs.nginx.com/nginx-controller/admin-guides/install/install-nginx-controller/
-   - 合わせてNGINX Controller Agent Install手順を確認してください
-
-- NGINX Ingress Controller 利用手順 : https://docs.nginx.com/nginx-ingress-controller/installation/using-the-jwt-token-docker-secret/
-   - ImageのPull、ImageのBuild等ご希望の手順を参照してください
-
-
-
-
-NGINX利用で参考となるページ
-=====
-
-- NGINX Docs (各種製品ドキュメント、リリースノート等): https://docs.nginx.com/
-   - 各プロダクトを選択いただきマニュアルをご覧ください
-
-- NGINX org (各種ディレクティブ、変数の解説、OSSリリースノート等): http://nginx.org/
-   - documentationより各種資料が参照いただけます
-
-
-その他参考となるページ
---------
-
-
-- NGINX Japan : https://www.nginx.co.jp/
-- NGINX Japan よくある質問 : https://www.nginx.co.jp/resources/faq/
-- NGINX Japan Ebook : https://www.nginx.co.jp/resources/ebooks/
-   - 特に O'Reilly Cookbookが便利です
-- NGINX Japan Webinar (日本語) : https://www.nginx.co.jp/resources/webinars/
-- NGINX com BLOG (英語) : https://www.nginx.com/blog/
-   - 様々なテクニカル情報、製品情報などまとまっております
-- NGINX com Webinar (英語) : https://www.nginx.com/resources/webinars/
+`ドキュメントIndex Product <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#product>`__
+のページを確認し、トライアルを開始するプロダクトの ``インストール手順`` を参考に、お客様環境へデプロイください
 
 .. toctree::
    :titlesonly:
