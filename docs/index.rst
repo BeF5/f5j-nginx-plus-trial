@@ -51,7 +51,7 @@ URLをブラウザで開き、ライセンスファイルを取得します
 プロダクトの利用
 ----
 
-`ドキュメントIndex Product <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#product>`__
+`NGINX プロダクトインフォ <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#product>`__
 のページを確認し、トライアルを開始するプロダクトの ``インストール手順`` を参考に、お客様環境へデプロイください
 
 .. toctree::
