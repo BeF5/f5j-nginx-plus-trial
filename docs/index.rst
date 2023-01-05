@@ -17,7 +17,7 @@ NGINX トライアル 申し込みページ
 .. NOTE::
    Trialの取得に1～2日必要となる場合があります
 
-- 無料トライアル : https://www.nginx.co.jp/pricing/
+- `無料トライアル <https://www.nginx.co.jp/pricing/>`__ のページ下部より対象のプロダクトを選択してください
 
 無料トライアルの申請
 --------
