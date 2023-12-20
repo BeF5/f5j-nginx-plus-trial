@@ -62,7 +62,6 @@ NGINX セットアップガイド トップページ
 NGINX のその他ラボガイドは以下を参照してください
 
 - `NGINX セットアップガイド・ラボガイド <https://f5j-tech-info.readthedocs.io/ja/latest/content11/content11.html>`__
-(リンクなし)
 
 
 .. toctree::
